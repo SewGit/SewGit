@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sewwandi Maheshika</h1>
 <h3 align="center">I'm a 3rd year undergraduate student at Sri Lanka Institute of Information Technology.</h3>
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/> <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sewgit&label=Profile%20views&color=0e75b6&style=flat-square" alt="sewgit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewgit" alt="sewgit" /></a> </p>
 
-- 🔭 I’m currently working on [test](test)
+
 
 - 🌱 I’m currently learning **REACT,Figma,ExpressJs,Android Studio**
 
-- 👯 I’m looking to collaborate on [test](test)
+
 
 - 🤝 I’m looking for help with [my projects](test)
 
