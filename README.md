@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sewgit&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sewgit" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sewgit&show_icons=true&theme=dracula&locale=en" alt="sewgit" /></p><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sewgit&show_icons=true&theme=dracula&locale=en" alt="sewgit" /></p><br><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sewgit&theme=dark" alt="sewgit" /></p><br><br>
