@@ -1,7 +1,7 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/89308976/205487124-0ae219ad-4daa-441f-8ac2-c374f2addcc2.png)
 <h1 align="center">Hi 👋, I'm Sewwandi Maheshika</h1>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/> 
+<img align="right" alt="coding" width="200" height="200" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/> 
 
 <h3 align="center">I'm a 3rd year undergraduate student at Sri Lanka Institute of Information Technology.</h3>
 
