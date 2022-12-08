@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewgit" alt="sewgit" /></a> </p>
 
-- 🔭 I’m currently working on [test](test)
+- 🔭 I’m currently working on Pending
 
 - 🌱 I’m currently learning **REACT,Figma,ExpressJs,Android Studio**
 
-- 👯 I’m looking to collaborate on [test](test)
+- 👯 I’m looking to collaborate on **New work awith new ideas**
 
-- 🤝 I’m looking for help with [my projects](test)
+- 🤝 I’m looking for help with my **projects**
 
-- 👨‍💻 All of my projects are available at [Under developing](Under developing)
+- 👨‍💻 All of my projects are available at **My Portfolio(Under developing)**
 
 - 💬 Ask me about **react**
 
